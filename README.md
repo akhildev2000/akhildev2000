@@ -4,8 +4,8 @@
 <h3 align="center">A passionate Flutter Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhildev2000&label=Profile%20views&color=0e75b6&style=flat" alt="akhildev2000" /> </p>
 
-- 🔭 I’m currently working on project **Doc Link**
-
+- 🔭 I’m currently working on project **Valenki an E-commerce Application**
+- 🌱 I’m currently working as **Flutter Developer**
 - 🌱 I’m currently learning **Flutter, Dart and their various technologies**
 
 - 👯 I’m looking to work as **Flutter Developer**
