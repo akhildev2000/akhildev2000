@@ -4,13 +4,13 @@
 <h3 align="center">A passionate Flutter Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhildev2000&label=Profile%20views&color=0e75b6&style=flat" alt="akhildev2000" /> </p>
 
-- 🔭 I’m currently working on project **Valenki an E-commerce Application**
+- 🔭 I’m currently working on project **Tetris Game**
 - 🌱 I’m currently working as **Flutter Developer**
 - 🌱 I’m currently learning **Flutter, Dart and their various technologies**
 
 - 👯 I’m looking to work as **Flutter Developer**
 
-- 🤝 One of my best project is [Think Player](https://github.com/akhildev2000/think_player.git)
+- 🤝 One of my best project is [Valenki-an e-commerce app](https://github.com/akhildev2000/valenki)
 
 - 👨‍💻 All of my projects are available at [https://github.com/akhildev2000](https://github.com/akhildev2000)
 
