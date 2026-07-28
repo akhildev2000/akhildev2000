@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=220&section=header&text=Akhil%20Dev%20D&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Agentic%20AI%20%26%20AI-Assisted%20Engineering&descAlignY=58&descSize=20" />
+<img width="100%" src="assets/header.svg" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&height=45&lines=Building+cross-platform+apps+with+Flutter;Shipping+at+enterprise+scale+-+2%2C000%2B+daily+users;AI-Augmented+Mobile+Engineer;Claude+Code+%2B+MCP+%2B+Agentic+Workflows;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
@@ -105,6 +105,6 @@ English (Professional) · Tamil (Fluent) · Malayalam (Fluent) · Hindi (Beginne
 
 <img src="https://komarev.com/ghpvc/?username=akhildev2000&label=Profile%20Views&color=0e75b6&style=flat" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=100&section=footer" />
+<img width="100%" src="assets/footer.svg" />
 
 </div>
