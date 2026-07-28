@@ -1,17 +1,18 @@
-<h1 align="center">Hi, I'm Akhil Dev D 👋</h1>
-<h3 align="center">Flutter Developer · Agentic AI & AI-Assisted Engineering</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+cross-platform+apps+with+Flutter;Shipping+at+enterprise+scale+(2%2C000%2B+daily+users);AI-Augmented+Mobile+Engineer+%7C+Claude+Code+%2B+MCP;Always+learning%2C+always+shipping&font=Fira%20Code&center=true&width=580&height=45&color=0e75b6&vCenter=true&size=22" alt="Typing SVG" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=220&section=header&text=Akhil%20Dev%20D&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Agentic%20AI%20%26%20AI-Assisted%20Engineering&descAlignY=58&descSize=20" />
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&height=45&lines=Building+cross-platform+apps+with+Flutter;Shipping+at+enterprise+scale+-+2%2C000%2B+daily+users;AI-Augmented+Mobile+Engineer;Claude+Code+%2B+MCP+%2B+Agentic+Workflows;Always+learning%2C+always+shipping" alt="Typing SVG" />
+
+<p>
   <a href="https://linkedin.com/in/akhildevd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:akidev2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Coimbatore,_India-000000?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
----
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2" />
 
 ### 👨‍💻 About Me
 
@@ -30,20 +31,15 @@ engineers at Vaanam on adopting the same practices.
 - 💬 Ask me about Flutter architecture, platform channels, or AI-assisted dev workflows
 - 📫 Reach me at **akidev2000@gmail.com**
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2" />
 
 ### 🧰 Tech Stack
 
-**Mobile Development**
+<div align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,xcode,git,figma,dotnet,nodejs,html,css,js&theme=dark" />
+</div>
 
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/BLoC-00D2FF?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Riverpod-58C4DC?style=flat-square" />
-<img src="https://img.shields.io/badge/GetX-8A2BE2?style=flat-square" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-</p>
+<br/>
 
 **AI & Agentic Engineering**
 
@@ -54,20 +50,18 @@ engineers at Vaanam on adopting the same practices.
 <img src="https://img.shields.io/badge/Prompt_Engineering-2F4F4F?style=flat-square" />
 </p>
 
-**Backend / API / Tools**
+**State Management & Architecture**
 
 <p>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/BLoC-00D2FF?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Riverpod-58C4DC?style=flat-square" />
+<img src="https://img.shields.io/badge/GetX-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/Clean_Architecture-263238?style=flat-square" />
 <img src="https://img.shields.io/badge/REST_APIs-informational?style=flat-square" />
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2" />
 
 ### 🚀 Featured Work
 
@@ -92,7 +86,7 @@ stream-based reactive state — built to practice production-grade state managem
 **🛒 [Valenki — E-Commerce App](https://github.com/akhildev2000/valenki)**
 A Flutter e-commerce app exploring product listing, cart, and checkout flows.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2" />
 
 ### 🎓 Certifications & Community
 
@@ -101,21 +95,16 @@ A Flutter e-commerce app exploring product listing, cart, and checkout flows.
 - Active member, **Flutter Developers Kerala** community
 - NSS Volunteer — Kerala Flood Relief 2018
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akhildev2000&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhildev2000&layout=compact&hide_border=true" />
-</p>
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2" />
 
 ### 🌐 Languages
 
 English (Professional) · Tamil (Fluent) · Malayalam (Fluent) · Hindi (Beginner)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akhildev2000&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=akhildev2000&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=100&section=footer" />
+
+</div>
