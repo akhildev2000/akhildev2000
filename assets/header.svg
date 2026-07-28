@@ -1,0 +1,67 @@
+<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e75b6">
+        <animate attributeName="stop-color"
+          values="#0e75b6;#1a1a2e;#0e75b6"
+          dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#1a1a2e">
+        <animate attributeName="stop-color"
+          values="#1a1a2e;#0e75b6;#1a1a2e"
+          dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.02" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bgGrad)" />
+
+  <!-- floating dots (tech / particle feel) -->
+  <circle cx="90" cy="60" r="3" fill="#ffffff" opacity="0.5">
+    <animate attributeName="cy" values="60;40;60" dur="4s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="180" cy="150" r="2.5" fill="#ffffff" opacity="0.4">
+    <animate attributeName="cy" values="150;170;150" dur="5s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1050" cy="50" r="3" fill="#ffffff" opacity="0.5">
+    <animate attributeName="cy" values="50;70;50" dur="4.5s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1120" cy="140" r="2" fill="#ffffff" opacity="0.4">
+    <animate attributeName="cy" values="140;120;140" dur="3.5s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="980" cy="170" r="2.5" fill="#ffffff" opacity="0.35">
+    <animate attributeName="cy" values="170;150;170" dur="5.5s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="60" cy="170" r="2" fill="#ffffff" opacity="0.35">
+    <animate attributeName="cy" values="170;190;170" dur="6s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- code-bracket accents -->
+  <text x="70" y="115" font-family="Fira Code, monospace" font-size="34" fill="#ffffff" opacity="0.15">&lt;/&gt;</text>
+  <text x="1060" y="180" font-family="Fira Code, monospace" font-size="28" fill="#ffffff" opacity="0.15">{ }</text>
+
+  <!-- title -->
+  <text x="600" y="100" font-family="Fira Code, monospace" font-size="46" font-weight="600"
+        fill="#ffffff" text-anchor="middle">Akhil Dev D</text>
+
+  <!-- subtitle -->
+  <text x="600" y="140" font-family="Fira Code, monospace" font-size="19"
+        fill="#8ecdf0" text-anchor="middle">Flutter Developer · Agentic AI &amp; AI-Assisted Engineering</text>
+
+  <!-- animated wave at bottom -->
+  <path fill="url(#waveGrad)">
+    <animate attributeName="d"
+      dur="6s"
+      repeatCount="indefinite"
+      values="
+        M0,190 C300,220 900,160 1200,190 L1200,220 L0,220 Z;
+        M0,200 C300,170 900,220 1200,180 L1200,220 L0,220 Z;
+        M0,190 C300,220 900,160 1200,190 L1200,220 L0,220 Z
+      " />
+  </path>
+</svg>

@@ -1,0 +1,22 @@
+<svg width="100%" height="90" viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1a1a2e">
+        <animate attributeName="stop-color" values="#1a1a2e;#0e75b6;#1a1a2e" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#0e75b6">
+        <animate attributeName="stop-color" values="#0e75b6;#1a1a2e;#0e75b6" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <path fill="url(#footGrad)">
+    <animate attributeName="d"
+      dur="6s"
+      repeatCount="indefinite"
+      values="
+        M0,30 C300,0 900,60 1200,30 L1200,90 L0,90 Z;
+        M0,40 C300,70 900,10 1200,40 L1200,90 L0,90 Z;
+        M0,30 C300,0 900,60 1200,30 L1200,90 L0,90 Z
+      " />
+  </path>
+</svg>
